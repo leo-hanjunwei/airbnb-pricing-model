@@ -12,7 +12,7 @@ Unlike traditional hotels with expert pricing strategies, many individual Airbnb
 
 - `data/`: Raw and processed datasets (NYC Airbnb Open Data 2019).
 - `figures/`: Visualizations for EDA, correlation maps, SHAP values, etc.
-- `models/`: Saved models, metrics, and tuning results.
+- [`models/`](https://drive.google.com/drive/folders/1BQBjAEk9fof_3BKMCmOjN9JHKaSxVADI?usp=sharing): Saved models, metrics, and tuning results.
 - `report/`: Final write-ups and analysis reports.
 - `src/`: All source code including preprocessing, EDA, modeling, and evaluation scripts.
 
